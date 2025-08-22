@@ -163,4 +163,11 @@ sales_df.printSchema()
 print(f"Total Rows: {sales_df.count()}")
 ```
 
+2. **Run Test**
+```bash
+python test_spark.py
+```
 
+---
+
+✅ You now have Apache Spark (PySpark) working on **both Ubuntu and macOS**.
